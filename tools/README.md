@@ -23,3 +23,6 @@
 其中 rootpath 是 WebRoot/uploadFile 中，大概就是 tomcat 服务器的临时文件夹。
 
 通过传入的 filename ，将 rootpath 文件下的 filename 文件进行下载
+
+## RadarMap.java
+用 java 的 Graphics2D 类 画六维图（雷达图）
